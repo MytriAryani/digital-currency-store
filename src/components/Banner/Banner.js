@@ -41,7 +41,7 @@ function Banner() {
               fontFamily: "Montserrat",
             }}
           >
-            Crypto Mart
+            Digital Currency Store
           </Typography>
           <Typography
             variant="subtitle2"

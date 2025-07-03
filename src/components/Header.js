@@ -49,7 +49,7 @@ function Header() {
               variant="h6"
               className={classes.title}
             >
-              Crypto Mart
+              Digital currency store
             </Typography>
             {/* <Button color="inherit">Login</Button> */}
             <Select
